@@ -5,3 +5,6 @@ Bolivia
 Argentina
 Canada
 Francia
+España
+Italia
+Inglaterra
